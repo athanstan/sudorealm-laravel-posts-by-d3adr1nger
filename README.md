@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="http://sudorealm2.0.test/postImages/G1OlNpmtuLFJQbbp54iw74iDtwfxxbBNblRPhI76.png" width="650" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://sudorealm.com/postImages/IReZFhLQAiby3kJn4vMQnnfqBIFgP4ja7VlW6Yjk.png" width="650" alt="Laravel Logo"></a></p>
 
 
 ## Dark Theme with Laravel Tailwind and Alpine.js
