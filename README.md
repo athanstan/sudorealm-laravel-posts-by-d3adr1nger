@@ -6,6 +6,4 @@ Welcome to the epicenter of creativity! This repository houses the live code for
 ## 📜 List of Posts (Branches)
 Here's a curated list of all the projects/posts available in this repository. Dive into each one by selecting the desired topic:
 
-![travolta gif][Travolta searching for something]
-
-[Travolta searching for something]: https://media.giphy.com/media/tvGOBZKNEX0ac/giphy-downsized-large.gif
+![travolta gif](https://media.giphy.com/media/tvGOBZKNEX0ac/giphy-downsized-large.gif)
