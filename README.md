@@ -52,7 +52,7 @@ Run your build process with npm run dev.
 ```bash
 npm run dev
 ```
-
+**Start using Tailwind in your project**
 ```html
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
@@ -62,4 +62,37 @@ npm run dev
         @vite(['resources/css/app.css'])
     </head>
 ```
+
+### ⼻ Step 3: Install Alpine.js
+
+```bash
+npm install alpinejs
+```
+
+**import Alpine into your bundle**
+```js
+import Alpine from 'alpinejs'
+ 
+window.Alpine = Alpine
+ 
+Alpine.start()
+```
+
+**Add the Alpine directives to your HTML**
+```html
+<!DOCTYPE html>
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+    <head>
+        ...
+        <!-- Styles -->
+        @vite(['resources/css/app.css', 'resources/js/app.js'])
+    </head>
+    <body x-data x-init="alert('Alpine.js installed successfully!')" class="antialiased">
+    ...
+    </body>
+</html>
+```
+
+Now we are ready to code! 
+
 
